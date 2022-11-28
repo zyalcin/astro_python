@@ -5,7 +5,9 @@
 
 Step 1: Making parallax cuts based on the GAIA dr3 dataset and using statistical analysis, clear Gaussian cut. Calculated parallax: 2.74725274725 milliarcseconds. 
 Final applied parallax cuts: 1.4 and 3.1
+
 Step 2: Making proper motion cuts. Right skewed distribution. Final cut made at 15 PM. value. Cuts match 350 members remain.
+
 Step 3: Making magnitude cuts using photometry. Based on the statistical trends & correspondence to the image itself cut off magnitude set as 17.8
 
 Cuts made using parallax, proper motion and magnitudes reveal that in an area of 3.5’ there are 70 stars that are definitely a member of the open cluster NGC 6633.
