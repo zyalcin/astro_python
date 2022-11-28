@@ -12,6 +12,7 @@ Step 3: Making magnitude cuts using photometry. Based on the statistical trends 
 
 Cuts made using parallax, proper motion and magnitudes reveal that in an area of 3.5’ there are 70 stars that are definitely a member of the open cluster NGC 6633.
 
+#### "Open Clusters.pdf" This image is the poster for the findings, presented to Wellesley College ASTR 206. 
 
 #### "galaxy_models.ipynb" This notebook solves for bound, unbound and critical universes using parametric equations and numerical integration and plots the expansion models of the bound, unbound and critical universes. 
 
